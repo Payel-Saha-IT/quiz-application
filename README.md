@@ -1,5 +1,5 @@
 # quiz-application
-This repository contains a Java-based quiz application developed using JAVA Swing and AWT libraries.
+This repository contains a quiz application developed using JAVA Swing and AWT libraries.
 
 The application is divided into four main components:
 
